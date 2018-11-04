@@ -1,6 +1,7 @@
 #include <iostream>
 #include<cstring>
 using namespace std;
+
 // using function pointer in parameter
 void revtString(char* p)
 {
